@@ -1,0 +1,27 @@
+.number15,
+.number3 {
+    background-color: rgb(243, 182, 161);
+    color: black;
+}
+
+#number2 {
+    font-size: 50px; 
+    color: blue; 
+    font-weight: bolder;
+}
+
+#number4 {
+    background-color:  hwb(123 58% 1%); 
+    color: black; 
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.number15{
+    font-size: 30px;
+
+}
+
+.number3{
+    font-size: 45px;
+}
